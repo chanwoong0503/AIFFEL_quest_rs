@@ -39,6 +39,7 @@
 
 - project1(Diabetes)
 목표 : Kaggle에 submisssion을 하여 private score를 110,000 이하로 튜닝하기
+- [x] grid 변환
 - [x] feature 값 지정
 ```
 param_grid = {
